@@ -8,6 +8,10 @@ O alvo é previsto pela interpolação local dos alvos associados aos vizinhos m
 
 Por fim, com os pontos encontrados, será utilizado o PostGIS para plotar os dados em um mapa a fim de verificar se a interpolação faz sentido.
 
+## Artigo
+
+[Leia o artigo do trabalho](Article.md)
+
 # Dados
 
 ## Fonte
@@ -21,14 +25,6 @@ São eles:
 - [ctb0047](https://docs.google.com/spreadsheets/d/1HlFLNRDzRqD42lJ1GF3Pv00xHBMJ2w9Yj4Z2U1OR5_Q/edit?usp=sharing): `Curcio, G. R.; Gomes, J. B. V.; Bognola, I. A.; Caviglione, J. H.; Uhlmann, A.; Cardoso, A.; Carvalho, A. P. de. Levantamento semidetalhado de solos e diagnóstico dos remanescentes florestais do município de Cambé - PR. IAPAR : Londrina, 2011. 147p.`
 
 - [ctb0048](https://docs.google.com/spreadsheets/d/1LMa_n5E2xGnZqKFuhf_8hAG83sdoNm30PgeTVfs25FM/edit?usp=sharing): `Gomes, J. B. V.; Bognola, I. A.; Curcio, G. R.; Caviglione, J. H.; Uhlmann, A.; Cardoso, A.; Carvalho, A. P. de. Levantamento semidetalhado de solos do município de Bela Vista do Paraíso - PR. IAPAR : Londrina, 2011. 68p.`
-
-
-## Processo de Normalização dos Dados
-
-Algumas colunas serão removidas, por falta de informações. Enquanto outras serão normalizadas para informações númericas, a fim de entrar no processo e ajudar na regressão.
-
-Mais informações, iremos atualizando o repositório.
-
 
 
 
