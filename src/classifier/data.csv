@@ -1,0 +1,115 @@
+observacao_id,observacao_data,coord_sistema,coord_x,coord_y,coord_precisao,coord_fonte,pais_id,estado_id,municipio_id,amostra_tipo,amostra_quanti,amostra_area,taxon_sibcs_2006,relevo_local,relevo_elevacao,relevo_declividade,relevo_posicao
+L1,xx-xx-2011,EPSG:32722,486313,7399817,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",forte ondulado,530,-,-
+L2,xx-xx-2011,EPSG:32722,485894,7399144,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,608,12,-
+L3,xx-xx-2011,EPSG:32722,488251,7395608,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,517,10,-
+L4,xx-xx-2011,EPSG:32722,492676,7398296,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",ondulado,580,-,-
+L5,xx-xx-2011,EPSG:32722,492602,7397933,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",ondulado,543,17,terço inferior
+L6,xx-xx-2011,EPSG:32722,494609,7398140,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",plano,585,2,-
+L7,xx-xx-2011,EPSG:32722,496652,7394960,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Ta-Eutrófico típico, textura argilosa cascalhenta, A chernozêmico, fase pedregosa",forte ondulado,-,-,-
+L8,xx-xx-2011,EPSG:32722,491437,7395172,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",ondulado,554,12,-
+L9,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,-,-,-
+L10,xx-xx-2011,EPSG:32722,491507,7389296,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Litólico Eutrófico típico, textura argilosa cascalhenta, fase pedregosa",montanhoso,600,-,-
+L11,xx-xx-2011,EPSG:32722,490775,7387577,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Eutrófico típico, textura média, A chernozêmico",forte ondulado,-,-,-
+L12,xx-xx-2011,EPSG:32722,490573,7387384,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico léptico, textura muito argilosa, A moderado",ondulado,-,9,-
+L13,xx-xx-2011,EPSG:32722,491348,7384959,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,-,14,-
+L14,xx-xx-2011,EPSG:32722,491770,7383358,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,761,5,-
+L15,xx-xx-2011,EPSG:32722,495589,7387117,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,703,3,-
+L16,xx-xx-2011,EPSG:32722,484599,7398367,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,500,9,-
+L17,xx-xx-2011,EPSG:32722,481005,7397000,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,574,9,-
+L18,xx-xx-2011,EPSG:32722,481178,7397081,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Gleissolo Melânico Distrófico típico, textura argilosa, fase soterrada",plano,440,0,baixada
+L19,xx-xx-2011,EPSG:32722,478440,7395311,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,520,7,-
+L20,xx-xx-2011,EPSG:32722,478185,7392247,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",forte ondulado,-,20,-
+L21,xx-xx-2011,EPSG:32722,480560,7388272,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,600,5,-
+L22,xx-xx-2011,EPSG:32722,480365,7385484,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,-,3,-
+L23,xx-xx-2011,EPSG:32722,478943,7385025,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Cambissolo Flúvico Eutrófico típico, textura argilosa, A moderado",plano,-,0,baixada
+L24,xx-xx-2011,EPSG:32722,479224,7384962,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Ta-Eutrófico típico, textura argilosa cascalhenta, A chernozêmico, fase substrato eruptiva",montanhoso,-,61,
+L25,xx-xx-2011,EPSG:32722,479007,7380417,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura argilosa, A moderado",ondulado,660,-,-
+L26,xx-xx-2011,EPSG:32722,478596,7378933,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",ondulado,640,16,terço médio
+L27,xx-xx-2011,EPSG:32722,478468,7378870,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",forte ondulado,-,25,terço inferior
+L28,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,-,11,terço médio
+L29,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,-,5,terço superior
+L30,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",plano,-,1,topo
+L31,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,Cambissolo Háplico Tb-Eutrófico léptico,ondulado,-,-,terço médio
+L32,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico nitossólico, textura muito argilosa, A moderado",ondulado,-,16,terço médio
+L33,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,-,13,terço inferior
+L34,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,-,5,terço superior
+L35,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",plano,-,2,topo
+L36,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Ta-Eutrófico típico, A chernozêmico",ondulado,-,09-45,terço superior
+L37,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,-,14,terço médio
+L38,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,-,4,terço superior
+L39,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",plano,-,2,terço superior
+L40,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",plano,-,1,topo
+L41,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,-,16,cabeceira
+L42,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,-,9,terço inferior
+L43,xx-xx-2011,EPSG:32722,473649,7394421,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,548,-,terço superior
+L44,xx-xx-2011,EPSG:32722,473546,7394794,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico latossólico, textura muito argilosa, A moderado",ondulado,562,10,terço superior
+L45,xx-xx-2011,EPSG:32722,473800,7396336,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,612,-,-
+L46,xx-xx-2011,EPSG:32722,472933,7397328,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,665,-,-
+L47,xx-xx-2011,EPSG:32722,471699,7398301,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado, fase rochosa",forte ondulado,599,-,-
+L48,xx-xx-2011,EPSG:32722,470336,7400368,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",ondulado,710,13,terço superior
+L49,xx-xx-2011,EPSG:32722,470800,7402214,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",plano,719,2,topo
+L50,xx-xx-2011,EPSG:32722,488465,7379028,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,792,5,-
+L51,xx-xx-2011,EPSG:32722,491156,7378836,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,786,-,-
+L52,xx-xx-2011,EPSG:32722,490742,7377974,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",ondulado,744,18,terço inferior
+L53,xx-xx-2011,EPSG:32722,490565,7377882,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Gleissolo Melânico, textura argilosa, A húmico",plano,727,2,-
+L54,xx-xx-2011,EPSG:32722,493988,7378851,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,786,-,-
+L55,xx-xx-2011,EPSG:32722,496494,7378567,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Litólico Eutrófico fragmentário, textura média, A moderado",ondulado,802,-,-
+L56,xx-xx-2011,EPSG:32722,496394,7378732,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,771,19,topo
+L57,xx-xx-2011,EPSG:32722,500396,7378228,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,802,-,-
+L58,xx-xx-2011,EPSG:32722,500851,7377291,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",ondulado,778,12,-
+L59,xx-xx-2011,EPSG:32722,501422,7377440,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado, fase erodida",forte ondulado,717,24,terço inferior
+L60,xx-xx-2011,EPSG:32722,504041,7376520,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico léptico, textura muito argilosa, A moderado",ondulado,709,-,-
+L61,xx-xx-2011,EPSG:32722,504032,7376569,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Litólico Eutrófico fragmentário, textura média, A moderado, fase erodida",montanhoso,697,48,-
+L62,xx-xx-2011,EPSG:32722,505013,7375138,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Eutrófico fragmentário, textura média, A moderado",forte ondulado,728,-,-
+L63,xx-xx-2011,EPSG:32722,507562,7375129,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,661,20,terço inferior
+L64,xx-xx-2011,EPSG:32722,509272,7374707,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Eutrófico fragmentário, textura média, A moderado",montanhoso,569,-,-
+L65,xx-xx-2011,EPSG:32722,500936,7378911,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,778,4,terço superior
+L66,xx-xx-2011,EPSG:32722,504125,7381695,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Gleissolo Melânico, textura argilosa, A húmico",plano,606,-,-
+L67,xx-xx-2011,EPSG:32722,504056,7385283,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",plano,623,-,topo
+L68,xx-xx-2011,EPSG:32722,503191,7389283,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,562,-,terço superior
+L69,xx-xx-2011,EPSG:32722,501100,7390322,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,593,-,-
+L70,xx-xx-2011,EPSG:32722,497417,7397812,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Gleissolo Melânico, A húmico",plano,-,-,-
+L71,xx-xx-2011,EPSG:32722,498077,7397714,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,485,-,terço superior
+L72,xx-xx-2011,EPSG:32722,497959,7398484,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico nitossólico, textura muito argilosa, A moderado",suave ondulado,438,-,terço inferior
+L73,xx-xx-2011,EPSG:32722,500646,7391800,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,546,8,terço médio
+L74,xx-xx-2011,EPSG:32722,501808,7391827,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,593,-,terço superior
+L75,xx-xx-2011,EPSG:32722,502609,7394553,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Eutrófico fragmentário, textura média, A moderado",forte ondulado,571,40,-
+L76,xx-xx-2011,EPSG:32722,502338,7396714,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,502,9,terço inferior
+L77,xx-xx-2011,EPSG:32722,495972,7401069,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,502,9,terço médio
+L78,xx-xx-2011,EPSG:32722,505355,7402613,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Eutrófico fragmentário, textura média, A moderado",ondulado,449,16,-
+L79,xx-xx-2011,EPSG:32722,503980,7403881,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Chernossolo Háplico Férrico típico, textura argilosa, A chernozêmico",ondulado,448,13,terço inferior
+L80,xx-xx-2011,EPSG:32722,501332,7404352,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,448,-,topo
+L81,xx-xx-2011,EPSG:32722,503621,7408366,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,416,15,terço médio
+L82,xx-xx-2011,EPSG:32722,469216,7409055,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico nitossólico, textura muito argilosa, A moderado",ondulado,631,13,terço inferior
+L83,xx-xx-2011,EPSG:32722,470495,7409184,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",forte ondulado,593,26,terço inferior
+L84,xx-xx-2011,EPSG:32722,471956,7409374,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,624,6,terço superior
+L85,xx-xx-2011,EPSG:32722,472032,7407659,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",plano,667,-,topo
+L86,xx-xx-2011,EPSG:32722,470994,7407346,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,617,20,terço inferior
+L87,xx-xx-2011,EPSG:32722,475428,7406483,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Eutrófico típico, textura argilosa, A moderado",forte ondulado,537,41,-
+L88,xx-xx-2011,EPSG:32722,475474,7407682,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,619,4,terço superior
+L89,xx-xx-2011,EPSG:32722,476538,7410744,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,546,15,terço médio
+L90,xx-xx-2011,EPSG:32722,478072,7415409,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",plano,553,-,-
+L91,xx-xx-2011,EPSG:32722,481500,7412503,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",plano,557,-,topo
+L92,xx-xx-2011,EPSG:32722,485368,7411343,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,449,16,terço inferior
+L93,xx-xx-2011,EPSG:32722,483315,7408958,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa cascalhenta, A moderado",ondulado,493,11,terço superior
+L94,xx-xx-2011,EPSG:32722,485750,7403494,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,480,10,terço médio
+L95,xx-xx-2011,EPSG:32722,483551,7401678,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Eutrófico típico, textura média, A chernozêmico",ondulado,519,15,terço superior
+L96,xx-xx-2011,EPSG:32722,491669,7414202,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico latossólico, textura muito argilosa, A moderado",ondulado,427,13,terço médio
+L97,xx-xx-2011,EPSG:32722,491747,7412219,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,435,4,terço superior
+L98,xx-xx-2011,EPSG:32722,490514,7407301,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,466,18,terço médio
+L99,xx-xx-2011,EPSG:32722,491529,7405580,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,456,12,terço superior
+L100,xx-xx-2011,EPSG:32722,495021,7410499,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A chernozêmico",forte ondulado,423,29,terço médio
+L101,xx-xx-2011,EPSG:32722,495094,7416660,10,GPS,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",suave ondulado,428,5,terço médio
+L102,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Litólico Eutrófico típico, textura argilosa, A moderado, fase substrato eruptiva básica",ondulado,540,15,terço superior
+L103,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Gleissolo Melânico, textura argilosa, A moderado, fase soterrada",plano,-,0,baixada
+L104,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Cambissolo Háplico Tb-Eutrófico gleissólico, textura argilosa, A moderado",plano,500,0,baixada
+L105,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Eutroférrico típico, textura muito argilosa, A chernozêmico",suave ondulado,-,7,terço médio
+L106,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Eutrófico léptico, textura argilosa, A moderado",ondulado,-,17,terço médio
+L107,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Latossolo Vermelho Distroférrico típico, textura muito argilosa, A moderado",suave ondulado,470,7,terço inferior
+L108,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Nitossolo Vermelho Eutroférrico típico, textura muito argilosa, A moderado",ondulado,520,15,terço médio
+33,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Litólico Distrófico típico, textura média, A moderado, fase pedregosa",ondulado,-,-,terço inferior
+34,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Cambissolo Háplico Tb-Distrófico típico, textura média, A moderado, fase pedregosa",montanhoso,-,-,terço médio
+35,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Cambissolo Háplico Tb-Distrófico típico, textura média, A moderado, fase pedregosa",montanhoso,-,-,terço médio
+36,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Litólico Distrófico típico, textura média, A moderado, fase pedregosa",montanhoso,-,-,terço inferior
+37,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Cambissolo Háplico Tb-Distrófico típico, textura média, A moderado, fase pedregosa",forte ondulado,-,25,terço médio
+38,xx-xx-2011,-,-,-,-,-,BR,PR,Londrina,SIMPLES,1,1,"Neossolo Regolítico Eutrófico típico, textura média, A moderado, fase pedregosa",montanhoso,-,-,terço médio
