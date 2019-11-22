@@ -35,5 +35,7 @@ São eles:
 - Mikael Pereira Messias
 - Richard Peccin
 
-:: Com a ilustre orientação do [Prof. Dr. Alessandro Samuel-Rosa](http://lattes.cnpq.br/1609751519717461)
+> Adicionar informações sobre a contribuição dos autores conforme recomendações disponíveis em https://journals.plos.org/plosone/s/authorship
+
+:: Com a orientação do [Prof. Dr. Alessandro Samuel-Rosa](http://lattes.cnpq.br/1609751519717461)
 
