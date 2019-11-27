@@ -2,7 +2,7 @@
 
 O trabalho aborda o uso do algoritmo *K Nearest Neighbors*, com o objetivo de predizer coordenadas não disponíveis no conjunto de dados com base em características previamente normalizadas.
 
-# Materiais e Métodos
+# Material e Métodos
 
 ## Classificação
 
