@@ -3,9 +3,14 @@ import argparse
 sys.path
 
 from util import cross_validation
+from util import path_builder
 from util import initialize_dataset
 from preprocessor import gridsearch
 from util import facade_regressor
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 
 ap = argparse.ArgumentParser()
 ap.add_argument("-k", "--k", required=False, help="Valor de K")
@@ -16,6 +21,7 @@ ap.add_argument("-c", "--classifier", required=False, help="Classificador")
 ap.add_argument("-d", "--depth", required=False, help="Depth")
 ap.add_argument("-e", "--estimators", required=False, help="N Estimators")
 ap.add_argument("-sep", "--separate", required=False, help="Separate Coords")
+ap.add_argument("-gs", "--gridsearch", required=False, help="Grid Search")
 
 
 args = vars(ap.parse_args())
@@ -29,12 +35,18 @@ c          = args["classifier"]
 depth      = args["depth"]
 estimators = args["estimators"]
 separate   = args["separate"]
+gs         = args["gridsearch"]
 
 
 if c == "knn":
-    facade_regressor.run_knn(k, metric, weigth, cv, separate)
+    facade_regressor.run_knn_train(k, metric, weigth, cv, separate)
 elif c == "rf":
-    facade_regressor.run_random_forest(depth, estimators, cv, separate)
+    facade_regressor.run_random_forest_train(depth, estimators, cv, separate)
+elif c == "regress":
+    facade_regressor.run_random_forest_values(depth, estimators)
+elif gridsearch:
+    gridsearch.run(gs)
+
 
 # regressor_aluminio_kcl.run()
 # regressor_aluminio_kcl.run()

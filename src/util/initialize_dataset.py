@@ -16,10 +16,13 @@ def get_splited():
     x_test = []
     y_test = []
 
-    data.drop('observacao_id', inplace=True, axis=1)
     test = data.loc[(data['coord_x'] == '-') | (data['coord_y'] == '-')]
     train = data.drop(test.index)
 
+
+    train.drop('observacao_id', inplace=True, axis=1)
+    labels = test['observacao_id']
+    test.drop('observacao_id', inplace=True, axis=1)
 
     for i, j in zip(train['coord_x'], train['coord_y']):
         y_train.append([float(i), float(j)])
@@ -32,9 +35,9 @@ def get_splited():
 
     x_train = train.to_numpy().astype(np.float)
     x_test = test.to_numpy().astype(np.float)
+    
 
-    return x_train, y_train, x_test, y_test
-
+    return x_train, y_train, x_test, y_test, labels.to_numpy().astype(np.str)
 
 def get_train():
     PATH = path_builder.getDataCamada()

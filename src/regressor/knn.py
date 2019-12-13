@@ -5,7 +5,7 @@ sys.path
 
 import numpy as np
 
-def classify(dict_params, k, metric, weigth):
+def regress(dict_params, k, metric, weigth):
 
     regr = KNN(n_neighbors=int(k), weights=weigth, metric=metric)
     regr.fit(dict_params['x_train'], dict_params['y_train'])
@@ -17,7 +17,7 @@ def classify(dict_params, k, metric, weigth):
 
     return score
 
-def classify_separate(dict_params, k, metric, weigth):
+def regress_separate(dict_params, k, metric, weigth):
 
     regr = KNN(n_neighbors=int(k), weights=weigth, metric=metric)
 
@@ -25,7 +25,7 @@ def classify_separate(dict_params, k, metric, weigth):
     regr.predict(dict_params['x_test'])
     score_coord_x = regr.score(dict_params['x_train'], dict_params['y_train_coord_x'])
 
-    
+
     regr.fit(dict_params['x_train'], dict_params['y_train_coord_y'])  
     regr.predict(dict_params['x_test'])
     score_coord_y = regr.score(dict_params['x_train'], dict_params['y_train_coord_y'])

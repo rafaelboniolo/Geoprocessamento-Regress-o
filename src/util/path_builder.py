@@ -8,3 +8,6 @@ def getDataCamada():
 
 def getDataObservacao():
     return os.path.dirname(__file__).replace('\\util', '\\data')+("\\ctb0022-observacao.csv")
+
+def getShapeFile():
+    return os.path.dirname(__file__).replace('\\util', '\\data')+("\\solos_londrina_final.shp")
