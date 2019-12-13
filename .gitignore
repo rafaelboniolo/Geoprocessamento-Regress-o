@@ -1,5 +1,5 @@
 *.pyc
 */__pycache__
 .Rproj.user
-KNN-regressor-geospatial.Rproj
 .Rhistory
+KNN-regressor-geospatial.Rproj
